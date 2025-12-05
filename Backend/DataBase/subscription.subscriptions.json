@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6931647545aa6e0b4bfd9218"
+  },
+  "userId": "U1001",
+  "userName": "Akash Yadav",
+  "plan": "Premium",
+  "price": 499,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-04T10:37:41.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6931698c45aa6e0b4bfd9232"
+  },
+  "userId": "U1002",
+  "userName": "Vikas Yadav",
+  "plan": "Premium",
+  "price": 599,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-12-04T10:59:24.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69316ec50524b6d181ab2e65"
+  },
+  "userId": "U1003",
+  "userName": "Sachin Yadav",
+  "plan": "Premium",
+  "price": 299,
+  "status": "expired",
+  "createdAt": {
+    "$date": "2025-12-04T11:21:41.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69316f0d0524b6d181ab2e6d"
+  },
+  "userId": "U1003",
+  "userName": "Vinay  Yadav",
+  "plan": "Premium",
+  "price": 199,
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-12-04T11:22:53.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69325d2d3683b8157c314b93"
+  },
+  "userId": "U1003",
+  "userName": "Vinay  Yadav",
+  "plan": "Premium",
+  "price": 99,
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2025-12-05T04:18:53.447Z"
+  },
+  "__v": 0
+}]
